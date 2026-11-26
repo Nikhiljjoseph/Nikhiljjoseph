@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, Im Nikhil Jojy.
+Software developer with ~1.5 years of experience.
+
+## Contact:
+LinkedIn: https://www.linkedin.com/in/nikhil-jojy/
+Mail: nikhiljjoseph@gmail.com
 
 <!--
 **Nikhiljjoseph/Nikhiljjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
