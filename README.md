@@ -2,7 +2,7 @@
 Software developer with ~1.5 years of experience.
 
 ## Contact:
-- LinkedIn: https://www.linkedin.com/in/nikhil-jojy/
+- LinkedIn: https://www.linkedin.com/in/nikhil-jojy
 - Mail: nikhiljjoseph@gmail.com
 
 
